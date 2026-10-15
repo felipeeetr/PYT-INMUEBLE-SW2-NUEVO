@@ -84,3 +84,5 @@ src/
     ├── aplicacion/                  # Pruebas de casos de uso
     └── adaptadores/salida/persistencia/ # Pruebas de integración H2
 ```
+
+## LINK DIAGRAMAS : https://github.com/felipeeetr/PYT-INMUEBLE-SW2-NUEVO/wiki
